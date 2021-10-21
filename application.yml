@@ -1,3 +1,7 @@
-test:
-    test1: hello
-    test2: somethingelse
+spring:
+    data:
+        mongo:
+            db:
+                uri: '{cipher}8b556a1b5fc78d8bde469d7564ec309a90b5b0b78aaa4d1d8afa5537f8296e11f7a636c8dc2d730510b4ff2ea4c1af7835ae6fdcb15595ab7725524986a3fa01fccf648264eb14510ebadbd8f2b3766490be6b44a9ee88566add90ca69299cec8bd81c8244048bc982d9c5d99a9a096d4be35566f88dcfe32e5b19ee9c63d815'
+                database: '{cipher}5509f244dd204a04f34a7b251a6e2ab80356a1e5df90b598c3f6c665eae87778'
+
